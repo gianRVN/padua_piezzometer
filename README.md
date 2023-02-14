@@ -1,7 +1,4 @@
-STUDENT DATA:
 NAME : GIAN MOHAMMAD ARVIN
-CODICE PERSONA : 10871604
-MATRICOLA :
 
 - install dependancy library before start:
   - pip install pandas, numpy, scipy, matplotlib
